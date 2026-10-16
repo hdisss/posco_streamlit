@@ -1,0 +1,8 @@
+streamlit>=1.66,<2
+yfinance>=0.2.65,<2
+pandas>=2.2,<3
+plotly>=6,<7
+tzdata>=2025.1
+openai>=2,<3
+pypdf>=6,<7
+requests>=2.31,<3
